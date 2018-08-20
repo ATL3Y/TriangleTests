@@ -207,8 +207,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mat: {fileID: 2100000, guid: de93767127d7677439bb95bc78783d26, type: 2}
-  width: 5
-  height: 2
+  width: 8
+  height: 6
 --- !u!4 &362608177
 Transform:
   m_ObjectHideFlags: 0
