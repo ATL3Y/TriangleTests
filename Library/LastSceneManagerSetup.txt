@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/DrawQuad_Procedural_FromCenter.unity
+- path: Assets/DrawSpace_Noise.unity
   isLoaded: 1
   isActive: 1
